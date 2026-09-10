@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vtu28668/pst/tree/master/0347-top-k-frequent-elements) |
 | [0867-transpose-matrix](https://github.com/vtu28668/pst/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/vtu28668/pst/tree/master/0905-sort-array-by-parity) |
+| [1314-matrix-block-sum](https://github.com/vtu28668/pst/tree/master/1314-matrix-block-sum) |
 | [1470-shuffle-the-array](https://github.com/vtu28668/pst/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28668/pst/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vtu28668/pst/tree/master/1672-richest-customer-wealth) |
@@ -24,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu28668/pst/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/vtu28668/pst/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/vtu28668/pst/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1314-matrix-block-sum](https://github.com/vtu28668/pst/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28668/pst/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vtu28668/pst/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
