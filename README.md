@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/vtu28668/pst/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/vtu28668/pst/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/vtu28668/pst/tree/master/1920-build-array-from-permutation) |
+| [2418-sort-the-people](https://github.com/vtu28668/pst/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vtu28668/pst/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/vtu28668/pst/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/vtu28668/pst/tree/master/0905-sort-array-by-parity) |
+| [2418-sort-the-people](https://github.com/vtu28668/pst/tree/master/2418-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu28668/pst/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/vtu28668/pst/tree/master/0347-top-k-frequent-elements) |
+| [2418-sort-the-people](https://github.com/vtu28668/pst/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vtu28668/pst/tree/master/0179-largest-number) |
 | [1154-day-of-the-year](https://github.com/vtu28668/pst/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu28668/pst/tree/master/1360-number-of-days-between-two-dates) |
+| [2418-sort-the-people](https://github.com/vtu28668/pst/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
