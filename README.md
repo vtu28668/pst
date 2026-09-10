@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/vtu28668/pst/tree/master/0027-remove-element) |
 | [0905-sort-array-by-parity](https://github.com/vtu28668/pst/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/vtu28668/pst/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28668/pst/tree/master/1480-running-sum-of-1d-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/vtu28668/pst/tree/master/0027-remove-element) |
 | [0905-sort-array-by-parity](https://github.com/vtu28668/pst/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
