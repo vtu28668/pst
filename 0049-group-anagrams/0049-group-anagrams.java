@@ -1,16 +1,15 @@
+import java.util.*;
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        Map<String, List<String>> map = new HashMap<>();
+        HashMap<String, List<String>> map = new HashMap<>();
 
         for (String str : strs) {
-            char[] chars = str.toCharArray();
 
-            // Sort characters to create a common key
+            char[] chars = str.toCharArray();
             Arrays.sort(chars);
 
             String key = new String(chars);
 
-            // Add the original string to its anagram group
             if (!map.containsKey(key)) {
                 map.put(key, new ArrayList<>());
             }
